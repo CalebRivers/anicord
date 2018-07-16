@@ -6,6 +6,7 @@
 #  form_of                :text
 #  last_date_administered :text
 #  interval               :text
+#  pet_id                 :integer
 #  created_at             :datetime         not null
 #  updated_at             :datetime         not null
 #
